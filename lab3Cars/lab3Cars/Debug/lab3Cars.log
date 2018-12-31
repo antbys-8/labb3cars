@@ -1,0 +1,6 @@
+﻿  Cars.cpp
+h:\lab3cars\lab3cars\cars.cpp(21): warning C4305: 'return': truncation from 'double' to 'float'
+h:\lab3cars\lab3cars\cars.cpp(41): warning C4305: 'return': truncation from 'double' to 'float'
+h:\lab3cars\lab3cars\cars.cpp(79): warning C4305: 'return': truncation from 'double' to 'float'
+h:\lab3cars\lab3cars\cars.cpp(117): warning C4305: 'return': truncation from 'double' to 'float'
+  lab3Cars.vcxproj -> H:\lab3Cars\Debug\lab3Cars.exe
